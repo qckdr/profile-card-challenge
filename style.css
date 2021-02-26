@@ -126,7 +126,7 @@ body{
 }
 
 .bg-card{
-    background-image: url('/profile-card-component-main/images/bg-pattern-card.svg');
+    background-image: url('../images/bg-pattern-card.svg');
     border-radius: 13px 13px 0 0;
     margin-block-end: -50px;
 }
